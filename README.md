@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Olá! Me chamo Taynná Neves e sou estudante da área de tecnologia, com grande interesse em segurança da informação, sistemas operacionais e análise de sistemas.
+Olá! Me chamo Taynná Neves e sou estudante da área de tecnologia, com grande interesse em segurança da informação e análise de sistemas.
 Curso Análise e Desenvolvimento de Sistemas no Instituto Federal Baiano – Campus Guanambi, buscando ampliar meus conhecimentos em tecnologia e computação.
 Tenho interesse em ambientes Linux, redes, infraestrutura e fundamentos de cibersegurança, além de estar constantemente aprendendo mais sobre programação e funcionamento de sistemas.
 Utilizo este espaço para compartilhar estudos, exercícios, projetos acadêmicos e minha evolução na área de tecnologia. 🚀
